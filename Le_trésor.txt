@@ -12,3 +12,10 @@ Ah ça c'est dommage! on a trouvé le coffre maintenant il faut trouver la clé 
 Il y a un son qui sort du trésor.
 surprenant, disgracieux , exhorbitant, superflu, farfelu, aqueux, idyllique. il semblerait que si on arrive a faire une phrase avec chacun de ces adjectifs nous trouverons la clé du trésor . 
 
+Le processus de Git commit-merge-push est surprenant.
+Le trésor a une forme disgracieux.
+Il faut avoir une clé exhorbitant pour ouvrir le cadenas.
+La clé est-elle superflue ?
+Non, elle est farfelu.
+C'est aqueux que il n'y a pas des personnes qui saufent comment trouver la clé.
+Notre travaille en equipe est idyllique comparait avec le processus de trouver la clé et comprendre git.
